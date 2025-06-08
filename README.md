@@ -1,9 +1,10 @@
 # 🤖 AI Agent - Gmail Notification using n8n
+🔗 Official Website
+👉 https://n8n.io
 what is n8n to the people who don't know?
 -> n8n (short for "node to node") is an open-source workflow automation tool that allows you to connect various apps and services
-## 📌 Description
--
- -> This n8n workflow automatically sends an email via Gmail when a chat message is received. It includes an AI agent that generates a message using the input chat and sends it through Gmail.
+# 📌 Description
+This n8n workflow automatically sends an email via Gmail when a chat message is received. It includes an AI agent that generates a message using the input chat and sends it through Gmail.
 ---
 ## 🔄 Workflow Flow
 1. **Trigger:** When a new chat message is received.
